@@ -1,0 +1,6 @@
+Employee_ID,Name,Department,Age,Salary,Years_of_Experience,Joining_Date,Gender,Bonus,Rating
+101,Alice,HR,29,50000,4,15-03-2020,Female,5000,4.5
+102,Bob,IT,34,70000,8,19-07-2017,Male,7000,4
+103,Charlie,IT,41,65000,10,01-06-2013,Male,6000,3.8
+104,Diana,Marketing,28,55000,3,10-02-2021,Female,4500,4.7
+105,Edward,Sales,38,60000,12,25-11-2010,Male,5000,3.5
